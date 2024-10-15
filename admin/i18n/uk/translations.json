@@ -9,5 +9,7 @@
     "The IP of your OekoFEN touch device in the network": "IP-адреса вашого сенсорного пристрою OekoFEN у мережі",
     "The Port you've set on your OekoFEN touch device to listen on": "Порт, який ви встановили на своєму сенсорному пристрої OekoFEN для прослуховування",
     "Which encoding should be used when interpreting data from the device": "Яке кодування слід використовувати під час інтерпретації даних з пристрою",
-    "oekofen-json adapter settings": "Параметри адаптера для oekofen-json"
+    "oekofen-json adapter settings": "Параметри адаптера для oekofen-json",
+    "Max Retries": "Максимальна кількість спроб",
+    "How many times should the adapter retry before disabling itself?": "Скільки разів адаптер повинен спробувати перед відключенням?"
 }
