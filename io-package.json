@@ -1,8 +1,22 @@
 {
   "common": {
     "name": "oekofen-json",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "news": {
+     "1.0.6": {
+        "en": "Added configuration for retry limit (maxRetries) to allow customization of retry attempts before the adapter is disabled.",
+        "de": "Hinzufügung einer Konfiguration für das Wiederholungs-Limit (maxRetries), um die Anzahl der Versuche anzupassen, bevor der Adapter deaktiviert wird.",
+        "ru": "Добавлена конфигурация для лимита повторных попыток (maxRetries), чтобы позволить настроить количество попыток перед отключением адаптера.",
+        "pt": "Adicionada configuração para o limite de tentativas (maxRetries) para permitir a personalização das tentativas antes do adaptador ser desativado.",
+        "nl": "Configuratie toegevoegd voor het limiet van pogingen (maxRetries) om aanpassing van pogingen mogelijk te maken voordat de adapter wordt uitgeschakeld.",
+        "fr": "Ajout de la configuration pour la limite de tentatives (maxRetries) afin de permettre la personnalisation des tentatives avant la désactivation de l'adaptateur.",
+        "it": "Aggiunta configurazione per il limite di tentativi (maxRetries) per consentire la personalizzazione dei tentativi prima che l'adattatore venga disabilitato.",
+        "es": "Se añadió una configuración para el límite de reintentos (maxRetries) para permitir la personalización de intentos antes de que el adaptador se deshabilite.",
+        "pl": "Dodano konfigurację dla limitu prób (maxRetries), aby umożliwić dostosowanie liczby prób przed wyłączeniem adaptera.",
+        "uk": "Додано конфігурацію для ліміту повторних спроб (maxRetries), щоб дозволити налаштування кількості спроб перед відключенням адаптера.",
+        "zh-cn": "添加了最大重试次数 (maxRetries) 的配置，以允许在适配器禁用之前自定义重试次数。"
+      },
+      
       "1.0.5": {
         "en": "set min node version to 18.x (merge pull request #23)",
         "de": "min-knoten-version auf 18.x setzen (merge pull request #23)",
