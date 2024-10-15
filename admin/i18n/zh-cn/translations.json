@@ -9,5 +9,7 @@
     "The IP of your OekoFEN touch device in the network": "您的 OekoFEN 触控设备在网络中的 IP",
     "The Port you've set on your OekoFEN touch device to listen on": "您在 OekoFEN 触控设备上设置的监听端口",
     "Which encoding should be used when interpreting data from the device": "解释来自设备的数据时应使用哪种编码",
-    "oekofen-json adapter settings": "oekofen-json的适配器设置"
+    "oekofen-json adapter settings": "oekofen-json的适配器设置",
+    "Max Retries": "最大重试次数",
+    "How many times should the adapter retry before disabling itself?": "适配器应重试多少次才会禁用?"
 }
