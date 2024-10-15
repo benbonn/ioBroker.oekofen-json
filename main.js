@@ -112,10 +112,10 @@ class OekofenJson extends utils.Adapter {
 			this.log.debug("[updateData_axios.get.catch] error while request has occured, setting info.connection to false");
 			this.setStateAsync("info.connection", { val: false, ack: true });
 			failedConnectCounter += 1;
-			//Check if counter gets too high, if yes, disable the adapter.
-			if (failedConnectCounter > 10) {
-				this.log.error("[updateData_axios.get.catch] failed to get data 10 in a row. Disabling adapter. Please check your heater.");
-				this.disable();
+			// Check if counter gets too high, if yes, disable the adapter.
+			if (failedConnectCounter > this.config.maxRetries) {  // Use the configurable maxRetries value
+    			this.log.error(`[updateData_axios.get.catch] failed to get data ${this.config.maxRetries} times in a row. Disabling adapter. Please check your heater.`);
+   			this.disable();
 			}
 		}
 	}
