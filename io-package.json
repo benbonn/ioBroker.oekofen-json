@@ -167,7 +167,7 @@
     "oekofenPort": "8080",
     "oekofenPassword": "",
     "myRequestInterval": "30",
-    "maxRetries": 10  // New configuration for retry limit
+    "maxRetries": 10
   },
   "objects": [],
   "instanceObjects": [
