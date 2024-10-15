@@ -10,5 +10,6 @@
     "The Port you've set on your OekoFEN touch device to listen on": "The Port you've set on your OekoFEN touch device to listen on",
     "Which encoding should be used when interpreting data from the device": "Which encoding should be used when interpreting data from the device",
     "oekofen-json adapter settings": "Adapter settings for oekofen-json",
-    "Max Retries": "Max retries"
+    "Max Retries": "Max retries",
+    "How many times should the adapter retry before disabling itself?": "How many times should the adapter retry before disabling itself?"
 }
