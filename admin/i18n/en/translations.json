@@ -9,5 +9,6 @@
     "The IP of your OekoFEN touch device in the network": "The IP of your OekoFEN touch device in the network",
     "The Port you've set on your OekoFEN touch device to listen on": "The Port you've set on your OekoFEN touch device to listen on",
     "Which encoding should be used when interpreting data from the device": "Which encoding should be used when interpreting data from the device",
-    "oekofen-json adapter settings": "Adapter settings for oekofen-json"
+    "oekofen-json adapter settings": "Adapter settings for oekofen-json",
+    "Max Retries": "Max retries"
 }
