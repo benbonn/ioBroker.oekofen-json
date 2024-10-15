@@ -9,5 +9,7 @@
     "The IP of your OekoFEN touch device in the network": "O IP do seu dispositivo de toque OekoFEN na rede",
     "The Port you've set on your OekoFEN touch device to listen on": "A porta que você definiu no seu dispositivo de toque OekoFEN para ouvir",
     "Which encoding should be used when interpreting data from the device": "Qual codificação deve ser usada ao interpretar dados do dispositivo",
-    "oekofen-json adapter settings": "Configurações do adaptador para oekofen-json"
+    "oekofen-json adapter settings": "Configurações do adaptador para oekofen-json",
+    "Max Retries": "Tentativas Máximas",
+    "How many times should the adapter retry before disabling itself?": "Quantas vezes o adaptador deve tentar novamente antes de se desativar?"
 }
