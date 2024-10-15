@@ -10,5 +10,5 @@
     "The Port you've set on your OekoFEN touch device to listen on": "Der Port, den Sie auf Ihrem OekoFEN Touch-Gerät zum Abhören eingestellt haben",
     "Which encoding should be used when interpreting data from the device": "Welche Codierung sollte verwendet werden, wenn Daten vom Gerät interpretiert werden",
     "oekofen-json adapter settings": "Adaptereinstellungen für oekofen-json",
-    "Max Retries": "Maximale Wiederholungsversuche"
+    "Max Retries": "Maximale Anzahl der Wiederholungen"
 }
