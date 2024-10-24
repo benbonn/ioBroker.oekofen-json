@@ -29,7 +29,8 @@ After installation, it's just required to enter
 * the IP, 
 * TCP port, 
 * the "so-called" password 
-* and the interval 
+* and the interval
+* max number of retries 
 
 at which the adapter tries to pull the updates. 
 
@@ -40,6 +41,9 @@ The adapter maintains the connected state, even there's no real permanent connec
 	Placeholder for the next version (at the beginning of the line):
 	**WORK IN PROGRESS**
 -->
+### 1.0.6 (2024-10-15)
+* (benbonn) Added retry Mechanism - allow users to configure max number (pull request #41)
+
 ### 1.0.5 (2023-09-23)
 * (chaozmc) set min node version to 18.x (merge pull request #23)
 
