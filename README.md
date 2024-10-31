@@ -41,6 +41,9 @@ The adapter maintains the connected state, even there's no real permanent connec
 	Placeholder for the next version (at the beginning of the line):
 	**WORK IN PROGRESS**
 -->
+### 1.0.7 (2024-10-31)
+* (benbonn) Update the dependency for @iobroker/adapter-core to ^3.2.2 (fix issue #40)
+
 ### 1.0.6 (2024-10-15)
 * (benbonn) Added retry Mechanism - allow users to configure max number (pull request #41)
 
